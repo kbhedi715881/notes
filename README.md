@@ -39,3 +39,6 @@ To stay current, make time to attend workshops, read blogs, and follow industry 
 
 # 2023-11-25
 - "Today's programming wisdom is to focus on writing clean, maintainable code that can be easily understood and modified by others. This means using clear and descriptive variable names, commenting your code thoroughly, and breaking down complex tasks into smaller, more manageable functions. It's also important to stay up-to-date with the latest best practices and coding standards in your programming language of choice, and to continually strive to improve your skills through learning and practice."
+
+# 2023-11-26
+- "Keep it simple, stupid!"
