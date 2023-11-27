@@ -42,3 +42,8 @@ To stay current, make time to attend workshops, read blogs, and follow industry 
 
 # 2023-11-26
 - "Keep it simple, stupid!"
+
+# 2023-11-27
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
+
+This quote emphasizes the importance of writing clean, understandable, and well-documented code. It's not only for your own benefit but also for the benefit of others who may have to work with your code in the future. By assuming that the person who will maintain your code is a "violent psychopath," you are encouraged to write code that is easy to understand and modify, which can save time and frustration for everyone involved.
