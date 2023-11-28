@@ -47,3 +47,15 @@ To stay current, make time to attend workshops, read blogs, and follow industry 
 - "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
 
 This quote emphasizes the importance of writing clean, understandable, and well-documented code. It's not only for your own benefit but also for the benefit of others who may have to work with your code in the future. By assuming that the person who will maintain your code is a "violent psychopath," you are encouraged to write code that is easy to understand and modify, which can save time and frustration for everyone involved.
+
+# 2023-11-28
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help improve your programming skills:
+
+1. Break down large projects into smaller, manageable tasks.
+2. Set deadlines for each task and prioritize them according to their importance and urgency. 
+3. Use version control systems like Git to keep track of your code and collaborate with others.  
+4. Learn to use code editors and IDEs that optimize your workflow.   
+5. Stay up-to-date with the latest programming languages, frameworks, libraries, tools, etc., to stay competitive in the industry.    
+6. Participate in open source projects and contribute to them to improve both your skills and your portfolio.     
+7. Always write clean, well-documented code that is easy to maintain and understand.      
+8. Practice good coding habits like commenting your codes, using appropriate names for variables and functions, avoiding code duplication, following coding standards, writing unit tests, performing code reviews, refactoring, optimizing, debugging, profiling, performance tuning, security hardening, versioning, deployment, monitoring, maintenance, backup, recovery, documentation, communication, learning, teaching, sharing, mentoring, leading, inspiring, empowering, contributing, serving, caring, growing, evolving, thriving, winning, achieving, succeeding, excelling, prospering.
