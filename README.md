@@ -59,3 +59,8 @@ This quote emphasizes the importance of writing clean, understandable, and well-
 6. Participate in open source projects and contribute to them to improve both your skills and your portfolio.     
 7. Always write clean, well-documented code that is easy to maintain and understand.      
 8. Practice good coding habits like commenting your codes, using appropriate names for variables and functions, avoiding code duplication, following coding standards, writing unit tests, performing code reviews, refactoring, optimizing, debugging, profiling, performance tuning, security hardening, versioning, deployment, monitoring, maintenance, backup, recovery, documentation, communication, learning, teaching, sharing, mentoring, leading, inspiring, empowering, contributing, serving, caring, growing, evolving, thriving, winning, achieving, succeeding, excelling, prospering.
+
+# 2023-11-29
+- "Every line of code you write is a liability. Remove unnecessary code, and make your code as simple and concise as possible. This not only makes it easier for others to read and understand, but also reduces the potential for bugs and errors." 
+
+In other words, strive for simplicity and clarity in your code, and avoid adding unnecessary complexity or冗余. This will make your code more maintainable, scalable, and bug-free in the long run.
