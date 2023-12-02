@@ -70,3 +70,8 @@ In other words, strive for simplicity and clarity in your code, and avoid adding
 
 # 2023-12-01
 - "Keep it simple, stupid!"
+
+# 2023-12-02
+- "Premature optimization is the root of all evil" - Donald Knuth. 
+
+Optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's important to first write clear, understandable code that meets requirements, and only then optimize if performance issues arise.
