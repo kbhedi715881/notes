@@ -78,3 +78,6 @@ Optimizing code before it's necessary can lead to overly complex and difficult-t
 
 # 2023-12-03
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. Avoid unnecessary complexity and strive for clarity in your code. Remember that others will likely have to read and understand your code in the future, so make it easy for them. Additionally, embrace best practices such as using descriptive variable names, commenting your code, and testing thoroughly. Finally, always be open to learning new technologies and techniques, as the world of programming is constantly evolving.
+
+# 2023-12-04
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. Focus on writing clear, understandable code first and optimize only when necessary.
