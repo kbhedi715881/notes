@@ -128,3 +128,8 @@ Remember to take breaks throughout the day to clear your mind and refocus. Avoid
 
 # 2023-12-15
 - "Keep it simple, stupid!"
+
+# 2023-12-16
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to complex, hard-to-maintain code. It's better to write simple, clear code first and optimize only when needed.
