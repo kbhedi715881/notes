@@ -136,3 +136,8 @@ Optimizing code before it's necessary can lead to complex, hard-to-maintain code
 
 # 2023-12-17
 - "Keep it simple, stupid!"
+
+# 2023-12-18
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By constantly updating your knowledge and skills, you will become a valuable asset to any team or organization.
+
+Another important aspect of programming wise is problem-solving. When faced with a challenging problem, take a step back and analyze the issue from different perspectives. Break down the problem into smaller, more manageable tasks, then use logical thinking and creativity to come up with solutions. Practice debugging and refactoring code, which will help you identify and fix errors more efficiently. Finally, don't be afraid to ask for help or advice from others, since collaboration is an essential part of the programming world.
