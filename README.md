@@ -170,3 +170,6 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 
 # 2023-12-27
 - Today's programming wisdom is to embrace the principle of simplicity. Always strive to write clean, concise, and readable code. Remember that code is read more often than it is written, so prioritize clarity and maintainability over cleverness or optimization. Refactor early and often, and avoid premature optimization. Also, understand that debugging is an essential part of programming. Don't be afraid to make mistakes, but learn from them by thoroughly understanding and fixing errors when they occur. Lastly, keep learning and staying updated with new technologies and best practices, as the world of programming is constantly evolving.
+
+# 2023-12-28
+- Today's programming wisdom is to embrace the principle of "write readable code". Always remember that code is read more often than it is written. Strive to make your code easy to understand and maintain not only for others but also for your future self. Use clear and descriptive variable names, write concise and well-structured functions, and include comments to explain complex logic or intentions. Remember that readability is a key factor in code quality and can greatly impact the efficiency and ease of debugging, testing, and collaboration in software development.
