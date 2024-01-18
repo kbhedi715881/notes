@@ -289,3 +289,6 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 
 # 2024-01-17
 - "Keep it simple, stupid!"
+
+# 2024-01-18
+- "Keep it simple, stupid!"
