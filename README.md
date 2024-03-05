@@ -513,3 +513,14 @@ Use version control systems like Git to keep track of your code and collaborate 
 
 # 2024-03-04
 - "Keep it simple, stupid!"
+
+# 2024-03-05
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools to remain competitive in the job market. Here are some tips to help you grow as a programmer:
+
+1. Learn new programming Languages: Explore different programming langauges, such as Python, JavaScript, or Ruby, to expand your skill set and understand various approaches to problem-solving.
+2. Stay up to date with technology: Follow industry news and trends to keep informed about new tools, libraries, and frameworks that can help improve your coding efficiency and productivity. 
+3. Practice coding challenges: Solving coding problems on sites like LeetCode, HackerRank, Codecademy, etc., can improve problem solving skills and help prepare for technical interviews.  
+4. Attend workshops and conferences: Participate in local coding workshops, meetups, hackathons, conferences, seminars, webinars, ect. to learn new skills, network with fellow developers, share knowledge, get inspired, find collaborators, mentors, job opportunities, et al.   
+5. Seek feedback and critique: Share your code with others and solicit feedback to identify areas for improvement and learn from the experiences of others. This can also help build your confidence and resilience as you continue to grow your skills.    
+6. Keep a portfolio: Document and showcase your work and projects on your personal website or GitHub profile. Not only will this help with job hunting, but it will also provide a record of your growth and development as an engineer.     
+7. Network and collaborate: Connect with other developers and professionals in your field to share ideas, resources, learnings, collaborate on projects, provide support, feedback, guidance, mentorship, advice, opportunities.
