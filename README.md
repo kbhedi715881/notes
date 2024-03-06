@@ -524,3 +524,8 @@ Use version control systems like Git to keep track of your code and collaborate 
 5. Seek feedback and critique: Share your code with others and solicit feedback to identify areas for improvement and learn from the experiences of others. This can also help build your confidence and resilience as you continue to grow your skills.    
 6. Keep a portfolio: Document and showcase your work and projects on your personal website or GitHub profile. Not only will this help with job hunting, but it will also provide a record of your growth and development as an engineer.     
 7. Network and collaborate: Connect with other developers and professionals in your field to share ideas, resources, learnings, collaborate on projects, provide support, feedback, guidance, mentorship, advice, opportunities.
+
+# 2024-03-06
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' - Leonardo da Vinci. As a programmer, remember that writing clean, maintainable code with fewer lines and higher clarity often outweighs complex solutions. Strive to make your code readable and understandable, not just by machines but also by fellow humans who may inherit it tomorrow. And always keep in mind that code should be written for people to read, and only incidentally for machines to execute." 
+
+Also, "Premature optimization is the root of all evil (or at least most of it) in programming." - Donald Knuth. Focus on making your code correct first, then optimize if and where necessary, based on data and profiling results, rather than speculative assumptions about performance bottlenecks."
