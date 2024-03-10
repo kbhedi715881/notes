@@ -546,3 +546,6 @@ Also, "Premature optimization is the root of all evil (or at least most of it) i
 Second, always plan beforehand. When starting a new project, create a detailed plan that outlines the steps you need to take to complete it. Including milestones, deadlines, task breakdowns, as well as any resources or tools you may need, will ensure a smooth and efficient development process. Planning also helps you stay focused and avoid getting lost in the details. 
  - 30 个词
 Lastly, stay organised. Use version control systems, like Git, to keep track of your code and collaborate with others. Organizing your files and directories logically will make it easier to find and maintain your work. Additionally, using code editors and IDE'S (Integrated Development Environments) can significantly improve your productivity by providing quick access to code, auto-completion, debugging tools, etc.
+
+# 2024-03-10
+- "Keep it simple, stupid!"
