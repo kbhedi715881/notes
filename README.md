@@ -549,3 +549,13 @@ Lastly, stay organised. Use version control systems, like Git, to keep track of 
 
 # 2024-03-10
 - "Keep it simple, stupid!"
+
+# 2024-03-11
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These guidelines help structure code for maintainability, scalability, and ease of understanding, fostering software that's robust, adaptable, and resilient to change." 
+
+In brief:
+- Single Responsibility Principle (SRP): A class should have only one reason to change.
+- Open-Closed Principle (OCP): Classes should be open for extension but closed for modification.
+- Liskov Substitution Principle (LSP): Derived classes must be substitutable for their base classes.
+- Interface Segregation Principle (ISP): Make fine-grained interfaces that are tailored to clients.
+- Dependency Inversion Principle (DIP): Depend on abstractions, not on concrete implementations.
